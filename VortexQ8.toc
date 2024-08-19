@@ -1,0 +1,8 @@
+## Interface: 100007
+## Title: VortexQ8 UI Scaler
+## Notes: A simple addon to scale the UI
+## Author: VortexQ8
+## Version: 1.0
+## SavedVariables: VortexQ8SavedVars
+
+VortexQ8.lua
